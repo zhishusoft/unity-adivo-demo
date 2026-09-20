@@ -1,0 +1,6 @@
+{
+  "name": "Adivo.Demo",
+  "rootNamespace": "Adivo.Demo",
+  "references": ["Adivo.Ads"],
+  "autoReferenced": true
+}

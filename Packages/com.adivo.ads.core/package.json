@@ -1,0 +1,10 @@
+{
+  "name": "com.adivo.ads.core",
+  "version": "0.1.0",
+  "displayName": "Adivo Ads Binary SDK for iOS",
+  "description": "Binary Adivo rewarded and interstitial ads SDK for Unity iOS using AppLovin MAX.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Adivo Ads"
+  }
+}

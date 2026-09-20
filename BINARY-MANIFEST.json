@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "unity": "6000.3.24f1",
+  "iosMinimum": "15.0",
+  "appLovinSDK": "13.6.4",
+  "artifacts": [
+    {
+      "path": "Packages/com.adivo.ads.core/Runtime/Adivo.Ads.dll",
+      "sha256": "b0c61707b908246b03df5b11d120ce04cf0f1db193a3852948472cc0f529e6c7",
+      "bytes": 25088
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Editor/Adivo.Ads.Editor.dll",
+      "sha256": "7b31922d655352b054202f233806ed5ff6e57ac1d214aad1afe274324ffb27e2",
+      "bytes": 10240
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/Info.plist",
+      "sha256": "a4319ac317aa67d3e7511abb2a939f22dc8d33f5b480981263f4709d99699611",
+      "bytes": 1190
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64/AdivoAds.framework/AdivoAds",
+      "sha256": "b28e1bc3d5b249969ebee4e3b7b7d9c48d9201f100c5ac326f494adabe8c4a0f",
+      "bytes": 245040
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64/AdivoAds.framework/Headers/AdivoAds-Swift.h",
+      "sha256": "182f3524f83615ab883f8dea37d8c76b867afe194ca55d6f3cd104c0fc66a10e",
+      "bytes": 14290
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64/AdivoAds.framework/Info.plist",
+      "sha256": "06dd7b7919ee591281cc2eff5695a42e9d6079e542274ed3c384039bde7c79b9",
+      "bytes": 760
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64/AdivoAds.framework/Modules/AdivoAds.swiftmodule/arm64-apple-ios.abi.json",
+      "sha256": "e455c01089a177260d8edfea3c8ed740611e242e153531169a046a8ae9b2fd3f",
+      "bytes": 83873
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64/AdivoAds.framework/Modules/AdivoAds.swiftmodule/arm64-apple-ios.private.swiftinterface",
+      "sha256": "49899b2b5025ec2fb14831683e7936e599e4c986a88efdf3d2a1cbd2bdd56b3a",
+      "bytes": 6809
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64/AdivoAds.framework/Modules/AdivoAds.swiftmodule/arm64-apple-ios.swiftdoc",
+      "sha256": "857b01c77f803a67ccd96b594e80bf9be1de46e1fca2cf382a62b3bddefd2e84",
+      "bytes": 1296
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64/AdivoAds.framework/Modules/AdivoAds.swiftmodule/arm64-apple-ios.swiftinterface",
+      "sha256": "49899b2b5025ec2fb14831683e7936e599e4c986a88efdf3d2a1cbd2bdd56b3a",
+      "bytes": 6809
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64/AdivoAds.framework/Modules/module.modulemap",
+      "sha256": "9238bc9cb54997f577d9a1467194482c072585daa3a9a575a9d1b1470e7c177b",
+      "bytes": 58
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64/AdivoAds.framework/PrivacyInfo.xcprivacy",
+      "sha256": "528ab3fca910d2ac2f3ef256d5ea4c2327303a7a4a5efb9236987f3018e311f3",
+      "bytes": 397
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/AdivoAds",
+      "sha256": "3855e5e0faa01723be974d4b8199569d9cc0da5c7b0135dda01c09aee3788000",
+      "bytes": 478240
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Headers/AdivoAds-Swift.h",
+      "sha256": "bddf247a9c5ceb28c585e6345a7bd8a3d809b65feb86e13036df716d3b8bed96",
+      "bytes": 28525
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Info.plist",
+      "sha256": "a92c8e75477074cf0b04430f11c21994902fa6e6dab8f946bd284d6a14583cdb",
+      "bytes": 740
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Modules/AdivoAds.swiftmodule/arm64-apple-ios-simulator.abi.json",
+      "sha256": "e455c01089a177260d8edfea3c8ed740611e242e153531169a046a8ae9b2fd3f",
+      "bytes": 83873
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Modules/AdivoAds.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface",
+      "sha256": "45554cf476dbecef394a684766745e68be17f2b1ee42255da6a1b782fc2c0895",
+      "bytes": 6819
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Modules/AdivoAds.swiftmodule/arm64-apple-ios-simulator.swiftdoc",
+      "sha256": "2089133003f5452162beaeb4f34b463f852c09b59eed4ca9fb884733c4464559",
+      "bytes": 1308
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Modules/AdivoAds.swiftmodule/arm64-apple-ios-simulator.swiftinterface",
+      "sha256": "45554cf476dbecef394a684766745e68be17f2b1ee42255da6a1b782fc2c0895",
+      "bytes": 6819
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Modules/AdivoAds.swiftmodule/x86_64-apple-ios-simulator.abi.json",
+      "sha256": "e455c01089a177260d8edfea3c8ed740611e242e153531169a046a8ae9b2fd3f",
+      "bytes": 83873
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Modules/AdivoAds.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface",
+      "sha256": "724c6b4e6548bc64666f2076f9dbd4751bde27e6d9799051dc0cb4f9b5fd48fb",
+      "bytes": 6820
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Modules/AdivoAds.swiftmodule/x86_64-apple-ios-simulator.swiftdoc",
+      "sha256": "8021d21adb35922ef1fa3858ae063142c57435103c9e28720b5b6116b2e8bfb6",
+      "bytes": 1308
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Modules/AdivoAds.swiftmodule/x86_64-apple-ios-simulator.swiftinterface",
+      "sha256": "724c6b4e6548bc64666f2076f9dbd4751bde27e6d9799051dc0cb4f9b5fd48fb",
+      "bytes": 6820
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/Modules/module.modulemap",
+      "sha256": "9238bc9cb54997f577d9a1467194482c072585daa3a9a575a9d1b1470e7c177b",
+      "bytes": 58
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoAds.xcframework/ios-arm64_x86_64-simulator/AdivoAds.framework/PrivacyInfo.xcprivacy",
+      "sha256": "528ab3fca910d2ac2f3ef256d5ea4c2327303a7a4a5efb9236987f3018e311f3",
+      "bytes": 397
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/Info.plist",
+      "sha256": "28300e46ae95ff527c89ff9cee4f866acf2911b1f55871a1a5f6a6a221f945c6",
+      "bytes": 1196
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64/AdivoCore.framework/AdivoCore",
+      "sha256": "1fdd472fc5ea58ecf04049949d1b6f4ba84489bf88d3fc27ad2a235e3582bd29",
+      "bytes": 796968
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64/AdivoCore.framework/Headers/AdivoCore-Swift.h",
+      "sha256": "6aefdd2aff4b45b2779c80bc09a502a76085d84cd8282c6f5a9c65e0f0b1c29d",
+      "bytes": 13000
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64/AdivoCore.framework/Info.plist",
+      "sha256": "e198560d78b901c80ba7c3ea621f48736525b090f9109e15ada4ce10cd65dc20",
+      "bytes": 762
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64/AdivoCore.framework/Modules/AdivoCore.swiftmodule/arm64-apple-ios.abi.json",
+      "sha256": "a08cbad2a805a923103212d066bac613ae17e3b8e656776d0747fe2591fe9ede",
+      "bytes": 294171
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64/AdivoCore.framework/Modules/AdivoCore.swiftmodule/arm64-apple-ios.private.swiftinterface",
+      "sha256": "c7a5da74551e3ab0bf1d4a03af5825c951b3d766a3d4f405eef04590fe32608a",
+      "bytes": 12760
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64/AdivoCore.framework/Modules/AdivoCore.swiftmodule/arm64-apple-ios.swiftdoc",
+      "sha256": "82833770f07f55660f7ea6d13f59920b8032731fbc968cfb6e555edb59ca1553",
+      "bytes": 872
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64/AdivoCore.framework/Modules/AdivoCore.swiftmodule/arm64-apple-ios.swiftinterface",
+      "sha256": "c7a5da74551e3ab0bf1d4a03af5825c951b3d766a3d4f405eef04590fe32608a",
+      "bytes": 12760
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64/AdivoCore.framework/Modules/module.modulemap",
+      "sha256": "8a3a42793af32c57c885f75b67bc7e2567c4f380505208c984a42b6387af8d51",
+      "bytes": 60
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64/AdivoCore.framework/PrivacyInfo.xcprivacy",
+      "sha256": "528ab3fca910d2ac2f3ef256d5ea4c2327303a7a4a5efb9236987f3018e311f3",
+      "bytes": 397
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/AdivoCore",
+      "sha256": "da2097009b4c7f97516c0e28601085d09ec38c80cf3e6fa49487ec2728174505",
+      "bytes": 1568880
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Headers/AdivoCore-Swift.h",
+      "sha256": "0ec70ceb58682441d160759bd48098abbfb976d8c6532a4194414eb03dc10b9c",
+      "bytes": 25945
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Info.plist",
+      "sha256": "077326381b313c7edf755feccc6b422e23d10f852cb36d85cb42d64571b7b855",
+      "bytes": 742
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Modules/AdivoCore.swiftmodule/arm64-apple-ios-simulator.abi.json",
+      "sha256": "a08cbad2a805a923103212d066bac613ae17e3b8e656776d0747fe2591fe9ede",
+      "bytes": 294171
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Modules/AdivoCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface",
+      "sha256": "34d47aceecca796d1ba98d8b76c0f8257d54e49f127ca4395a096475a0d8ebb9",
+      "bytes": 12770
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Modules/AdivoCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc",
+      "sha256": "e73ed50bc80b14ed04ea5e1e5840a4a9702c25393dd8a3ad7fff94b2bc182ead",
+      "bytes": 884
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Modules/AdivoCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface",
+      "sha256": "34d47aceecca796d1ba98d8b76c0f8257d54e49f127ca4395a096475a0d8ebb9",
+      "bytes": 12770
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Modules/AdivoCore.swiftmodule/x86_64-apple-ios-simulator.abi.json",
+      "sha256": "a08cbad2a805a923103212d066bac613ae17e3b8e656776d0747fe2591fe9ede",
+      "bytes": 294171
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Modules/AdivoCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface",
+      "sha256": "207d511f889f6a23516da449a1c35e7301705c160fc09bd50b1c5376301a9143",
+      "bytes": 12771
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Modules/AdivoCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc",
+      "sha256": "57db35a6c4f7f0d209f7fb49ec0d467ee60c1f816ba05afefd13995bc0ed24c2",
+      "bytes": 884
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Modules/AdivoCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface",
+      "sha256": "207d511f889f6a23516da449a1c35e7301705c160fc09bd50b1c5376301a9143",
+      "bytes": 12771
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/Modules/module.modulemap",
+      "sha256": "8a3a42793af32c57c885f75b67bc7e2567c4f380505208c984a42b6387af8d51",
+      "bytes": 60
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoCore.xcframework/ios-arm64_x86_64-simulator/AdivoCore.framework/PrivacyInfo.xcprivacy",
+      "sha256": "528ab3fca910d2ac2f3ef256d5ea4c2327303a7a4a5efb9236987f3018e311f3",
+      "bytes": 397
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/Info.plist",
+      "sha256": "ed2b6b004dda798d4f1bf59c852dbeae60e5ffaf2735955ad8348b9502fc3a6d",
+      "bytes": 1190
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64/AdivoMAX.framework/AdivoMAX",
+      "sha256": "b8aefa0f33000445e722c8d716ee8059c147b9e69b4a845f7ad6266b04a4fcde",
+      "bytes": 298184
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64/AdivoMAX.framework/Headers/AdivoMAX-Swift.h",
+      "sha256": "0ca0c631fe0ce03131f8f3875c2089a11329d48f99edaad36d670ed22f2ae499",
+      "bytes": 12996
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64/AdivoMAX.framework/Info.plist",
+      "sha256": "5b873c83c1cd653969a110ffd7d56c66818c59e1bcbce784d61e3a6e1c00551c",
+      "bytes": 760
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/arm64-apple-ios.abi.json",
+      "sha256": "8a213dd8c0b0f2b94e9da0733dbaa52273976c717731a9e1436486b8e50a3ab5",
+      "bytes": 64161
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/arm64-apple-ios.private.swiftinterface",
+      "sha256": "959bee7eb02522c2ac26fb718755bc5cf3809a24d21e212cad6bcc9730166951",
+      "bytes": 3352
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/arm64-apple-ios.swiftdoc",
+      "sha256": "a95826d2e8a748832aa25ce1436927ad4ff838d6ecb4724ad9f4fe4513d5e2d5",
+      "bytes": 1112
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/arm64-apple-ios.swiftinterface",
+      "sha256": "959bee7eb02522c2ac26fb718755bc5cf3809a24d21e212cad6bcc9730166951",
+      "bytes": 3352
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64/AdivoMAX.framework/Modules/module.modulemap",
+      "sha256": "52ae363e63e766ec3a310432ed75eaa261a510c709465be12026ff01e6e0076a",
+      "bytes": 58
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64/AdivoMAX.framework/PrivacyInfo.xcprivacy",
+      "sha256": "528ab3fca910d2ac2f3ef256d5ea4c2327303a7a4a5efb9236987f3018e311f3",
+      "bytes": 397
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/AdivoMAX",
+      "sha256": "d3c04025584ed9690f4664f37147813e26dca6b1537d3c18819f380024e3fbdf",
+      "bytes": 578496
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Headers/AdivoMAX-Swift.h",
+      "sha256": "9e79570c35b8c9c374206078c0281e43b380ff5572ee7e374ca8910fbc4cea17",
+      "bytes": 25937
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Info.plist",
+      "sha256": "c9998217948dafac7a4218bc03746abfbac24f90e9f1555c81b1cf39eda54c4a",
+      "bytes": 740
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/arm64-apple-ios-simulator.abi.json",
+      "sha256": "8a213dd8c0b0f2b94e9da0733dbaa52273976c717731a9e1436486b8e50a3ab5",
+      "bytes": 64161
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface",
+      "sha256": "d6b67855c03553602011e49353974fe293d04f3ee5af979ab161bd2bf3da9ef6",
+      "bytes": 3362
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/arm64-apple-ios-simulator.swiftdoc",
+      "sha256": "b420e3e293117ad14fbb1f8a1cde75d33e4d44c97dd3d23597812e6c6810dfb9",
+      "bytes": 1124
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/arm64-apple-ios-simulator.swiftinterface",
+      "sha256": "d6b67855c03553602011e49353974fe293d04f3ee5af979ab161bd2bf3da9ef6",
+      "bytes": 3362
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/x86_64-apple-ios-simulator.abi.json",
+      "sha256": "8a213dd8c0b0f2b94e9da0733dbaa52273976c717731a9e1436486b8e50a3ab5",
+      "bytes": 64161
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface",
+      "sha256": "28ab584a406f515b1a643649225e98c7f5d092ef7279e729b5f7c48ab216f2c5",
+      "bytes": 3363
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/x86_64-apple-ios-simulator.swiftdoc",
+      "sha256": "b4616976241e402829db4939ee1fd49d4e06e12ac8777eef342d2687a6e327a6",
+      "bytes": 1124
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Modules/AdivoMAX.swiftmodule/x86_64-apple-ios-simulator.swiftinterface",
+      "sha256": "28ab584a406f515b1a643649225e98c7f5d092ef7279e729b5f7c48ab216f2c5",
+      "bytes": 3363
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/Modules/module.modulemap",
+      "sha256": "52ae363e63e766ec3a310432ed75eaa261a510c709465be12026ff01e6e0076a",
+      "bytes": 58
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoMAX.xcframework/ios-arm64_x86_64-simulator/AdivoMAX.framework/PrivacyInfo.xcprivacy",
+      "sha256": "528ab3fca910d2ac2f3ef256d5ea4c2327303a7a4a5efb9236987f3018e311f3",
+      "bytes": 397
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoUnityBridge.xcframework/Info.plist",
+      "sha256": "ed96900678e2ebc4a2c4dedbfa4356521bef88e7e961bf59884cc1e73d4c2e62",
+      "bytes": 1238
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoUnityBridge.xcframework/ios-arm64/AdivoUnityBridge.framework/AdivoUnityBridge",
+      "sha256": "83429550a6a5b5d830ba19adb697a1e2e16e5d7740511d3792975fc66b270a5c",
+      "bytes": 48864
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoUnityBridge.xcframework/ios-arm64/AdivoUnityBridge.framework/Headers/AdivoUnityBridge.h",
+      "sha256": "44a8920f45b7ed65c07bd0eebfd5e13cff1a8468c55f0e03afc9c18c3f82fd1f",
+      "bytes": 688
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoUnityBridge.xcframework/ios-arm64/AdivoUnityBridge.framework/Info.plist",
+      "sha256": "6a317521e701c5c7108de7c7a25d6fbc4ca5db7141bd4b16ff51e6411b20f5b0",
+      "bytes": 731
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoUnityBridge.xcframework/ios-arm64/AdivoUnityBridge.framework/Modules/module.modulemap",
+      "sha256": "75b02d9acf301cdf42ce3bb1e1e2fe53953411fcbc198d57be65ca454865b738",
+      "bytes": 112
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoUnityBridge.xcframework/ios-arm64_x86_64-simulator/AdivoUnityBridge.framework/AdivoUnityBridge",
+      "sha256": "b5e4d77e5bfb9781312a178ff16c40958cd6396a24d7fde6146a01f6a55e8706",
+      "bytes": 94304
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoUnityBridge.xcframework/ios-arm64_x86_64-simulator/AdivoUnityBridge.framework/Headers/AdivoUnityBridge.h",
+      "sha256": "44a8920f45b7ed65c07bd0eebfd5e13cff1a8468c55f0e03afc9c18c3f82fd1f",
+      "bytes": 688
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoUnityBridge.xcframework/ios-arm64_x86_64-simulator/AdivoUnityBridge.framework/Info.plist",
+      "sha256": "6a317521e701c5c7108de7c7a25d6fbc4ca5db7141bd4b16ff51e6411b20f5b0",
+      "bytes": 731
+    },
+    {
+      "path": "Packages/com.adivo.ads.core/Native~/Frameworks/AdivoUnityBridge.xcframework/ios-arm64_x86_64-simulator/AdivoUnityBridge.framework/Modules/module.modulemap",
+      "sha256": "75b02d9acf301cdf42ce3bb1e1e2fe53953411fcbc198d57be65ca454865b738",
+      "bytes": 112
+    }
+  ]
+}

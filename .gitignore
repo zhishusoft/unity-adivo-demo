@@ -1,0 +1,21 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Local build output
+build/
+Build/
+
+# Machine-local ad and signing configuration
+Assets/StreamingAssets/Adivo.local.json
+
+# Unity dependency resolution lock is generated locally
+Packages/packages-lock.json
+
+# macOS
+.DS_Store

@@ -1,0 +1,5 @@
+framework module AdivoUnityBridge {
+  umbrella header "AdivoUnityBridge.h"
+  export *
+  module * { export * }
+}
